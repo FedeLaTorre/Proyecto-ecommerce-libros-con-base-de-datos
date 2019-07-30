@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "My Hero academia: Volumen 14",
+        "sinopsis": "Las vacaciones de verano han terminado, y es hora de regresar a la escuela para los estudiantes de la U.A. ¡Alto! Pero antes de que las clases puedan comenzar, Izuku y Katsuki necesitan resolver un problema entre ellos que ha estado infectándose durante mucho tiempo. Incluso si pueden superar este bache en el camino para convertirse en superhéroes, los obstáculos seguirán subiendo y subiendo.",
+        "paginas": "208",
+        "precio": "$240",
+        "genero": "Jovenes",
+        "imagen": "volumen14.jpg",
+        "alt": "MHAvolumen14"
+        },
+    {
+        "titulo": "My Hero academia: Volumen 16",
+        "sinopsis": "La banda criminal Hassaikai, liderada por el joven jefe Kai Chisaki, ha estado trabajando en un plan para distribuir una droga que destruye el Quirk. La clave de este malvado plan es la joven Eri, detenida en el escondite de Kai. Nighteye le pide a otros héroes que formen un equipo para lanzar un intento de rescate, ¡y los estudiantes de Clase 1-A van con ellos a la guarida del león!.",
+        "paginas": "192",
+        "precio": "$240",
+        "genero": "Jovenes",
+        "imagen": "volumen16.jpg",
+        "alt": "MHAvolumen16"
+      },
+    {
+        "titulo": "Attack on titan: Volumen 18",
+        "sinopsis": "El Cuerpo de Inspección ha derrocado al Gobierno Real y ha barrido la tiranía del rey. El siguiente paso: avanzar para recuperar muro Maria, con la ayuda de un mineral metálico recién descubierto y los milagrosos poderes de endurecimiento del titán de Eren. Pero a medida que la humanidad se une, sus enemigos también se unen más allá de los Muros ... ahora que la Bestia Titán se ha unido a Reiner y Bertolt, ¿qué estragos causarán?",
+        "paginas": "210",
+        "precio": "$250",
+        "genero": "Jovenes Adultos",
+        "imagen": "volumen18.jpg",
+        "alt": "AOTvolumen18"
+    },
+    {
+        "titulo": "Spider-verse: Volumen 2",
+        "sinopsis": "Su batalla con Morlun y Los Herederos puede haber acabado, pero la guerra acaba de empezar. Abandonados en el Mundo de Batalla, un pequeño grupo de héroes que saltan entre universos, Spider-Gwen, Spider-Man Noir, Spider-Man: India, Spider-Girl, Spider-UK y Spider-Ham se encontrarán cara a cara con los horrores del Mundo de Batalla. ¿Cómo llegaron aquí? ¿Qué les pasó a sus hogares? ¿Qué tragedia le ha sucedido a esta región del Mundo de Batalla y como se enfrentarán a ella estos hombres y mujeres araña?",
+        "paginas": "155",
+        "precio": "$200",
+        "genero": "Jovenes Adultos",
+        "imagen": "volumen2.jpg",
+        "alt": "SPvolumen2"
+    },
+    {
+        "titulo": "Spider-verse: Volumen 2 1",
+        "sinopsis": "Spider-Gwen llega al cementerio Mount Olivet donde detiene al Jackal y a sus secuaces quienes intentaban desenterrar el cadáver de una joven. Luego de marcharse del sitio tras el arribo de la policía, Gwen siente una extraña sensación, como si hubiera vivido dos vidas diferentes: una en la que esta con vida y es una superheroína y otra en la que está muerta. Tras marcharse del cementerio se ven las tumbas de Gwen y su padre George Stacy.",
+        "paginas": "170",
+        "precio": "$220",
+        "genero": "Jovenes Adultos",
+        "imagen": "volumen2-1.jpg",
+        "alt": "SPvolumen2-1"
+    },
+    {
+        "titulo": "Batman: la broma asesina",
+        "sinopsis": "Batman: La broma aseisna es una historia centrada en el Joker, la antítesis de Batman por definición, y en la relación que éste y Batman han llegado a desarrollar a lo largo de los años. El relato comienza cuando se fuga por enésima vez del manicomio de Arkham. A partir de ahí, asistiremos a dos historia paralelas. Por un lado, a modo de flashbacks, se nos muestra el origen del Joker, la historia de cómic llegó a convertirse en el asesino desquiciado que es actualmente. Por otra parte, seguiremos el plan del Joker para secuestrar al comisario Gordon e intenta volverlo loco, atacando en el proceso y dejando inválida de por vida a su sobrina Barbara Gordon (antigua Batgirl), un hecho que acabará desencadenando en un inevitable encuentro con Batman.",
+        "paginas": "325",
+        "precio": "$400",
+        "genero": "Adultos",
+        "imagen": "BMKJ.jpg",
+        "alt": "KillingJoke"
+    }
+
+]
